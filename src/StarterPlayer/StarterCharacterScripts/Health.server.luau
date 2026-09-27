@@ -1,0 +1,5 @@
+-- Health (Script) - FASE 8
+-- VACIO A PROPOSITO. Roblox inyecta su propio script "Health" en cada personaje que
+-- regenera ~1%/seg. Si ya existe un script llamado "Health" (este), NO lo inyecta.
+-- Resultado: en este survivor curarte es INTENCIONAL (drops Health, carta Regeneration,
+-- Vampirism, robo de vida...) y no hay regeneracion pasiva gratis.
